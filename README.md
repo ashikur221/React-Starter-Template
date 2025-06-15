@@ -1,12 +1,23 @@
-# React + Vite
+# ⚡ React Starter Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, blazing-fast React Starter Template built with:
 
-Currently, two official plugins are available:
+- 🧩 [ShadCN/UI](https://ui.shadcn.dev/) – Accessible components powered by Radix and Tailwind
+- 🎨 [ZenUI](https://zenui.net/) – Minimal UI component library
+- 💨 [Tailwind CSS v4](https://tailwindcss.com/) – Next-gen utility-first CSS framework
+- ⚛️ Vite – Ultra-fast bundler for modern React development
+- 🧠 TypeScript (optional) – For better DX and maintainability
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ ShadCN UI Pre-installed  
+✅ ZenUI integrated (custom design system)  
+✅ Tailwind CSS v4 configured  
+✅ Vite for fast build and dev server  
+✅ Dark Mode ready  
+✅ SEO-ready with React Helmet (optional)  
+✅ ESLint + Prettier + Folder Structure for scaling  
+
+---
