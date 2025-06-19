@@ -2,7 +2,6 @@ import Dashboard from "@/components/admin/Dashboard";
 import AdminLayout from "@/layout/AdminLayout";
 import Layout from "@/layout/Layout";
 import Home from "@/pages/home/Home";
-import ScrollY from "@/pages/ScrollY";
 
 import { createBrowserRouter } from "react-router-dom";
 
