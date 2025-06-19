@@ -14,13 +14,13 @@ const Banner = () => {
 
                 <h1
                     className="text-[2rem] lg:text-[3rem] font-bold leading-[40px] lg:leading-[50px]">
-                    Welcome to React Started Template.
+                    Welcome to React ( 19 .1 .0 ) Started Template.
                 </h1>
 
                 <p
                     className="text-white/80 max-w-[700px] mt-3">
-                    We use ShadCn, ZenUi  component library for React.
-                    These Library are Tailwind CSS components library for any needs. Comes with UI examples &
+                    We use ShadCn, ZenUi  component library for React 19.1.0.
+                    These Library are Tailwind CSS (4.0.0) components library for any needs. Comes with UI examples &
                     blocks,
                     templates, Icons, Color Palette and more.
                 </p>
